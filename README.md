@@ -13,4 +13,3 @@ Who loves to build cool stuff and contribute to open source ❤️
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyappa53&show_icons=true&locale=en" alt="ayyappa53" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyappa53&" alt="ayyappa53" /></p>
-<p><img align="left" src="https://holopin.me/ayyappa53" alt="ayyappa53" /></p>
